@@ -71,7 +71,7 @@ const Contact = () => {
           </div>
 
           <div>
-            <label className="text-xl font-medium text-gray-700">Email</label>
+            <label className="text-xl font-medium text-gray-300">Email</label>
             <input
               type="email"
               name="email"
